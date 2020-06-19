@@ -1,1 +1,3 @@
-# MMD_Week3_Homework
+# Making Money with Data
+## Week3
+### Homework
